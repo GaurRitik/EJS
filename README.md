@@ -1,1 +1,1 @@
-# Spotify-clone
+# EJS basic coding
